@@ -42,7 +42,7 @@ This project analyzes retail sales data to uncover business insights such as hig
   - Low-performing products  
 
 ### 4. **Exploratory Data Analysis (EDA)**
-- Used Pandas and Matplotlib for:
+- Used Pandas ans pgSQL:
   - Sales distribution by region  
   - Top 10 products by revenue  
   - Profitability trends  
