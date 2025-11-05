@@ -16,30 +16,11 @@ This project analyzes retail sales data to uncover business insights such as hig
 | Category | Tools |
 |-----------|--------|
 | **Programming Language** | Python |
-| **Libraries** | Pandas, Matplotlib |
+| **Libraries** | Pandas |
 | **Database** | PostgreSQL (pgAdmin4) |
 | **Visualization** | Power BI |
 | **Environment** | Jupyter Notebook / VS Code |
-| **Dataset Source** | Self-created / Kaggle (Sales Data) |
-
----
-
-## 📊 Dataset Information  
-**File name:** `sales_data.csv`  
-**Columns:**
-- `order_id`
-- `customer_name`
-- `product`
-- `quantity`
-- `price`
-- `order_date`
-- `region`
-
-**Sample Data:**
-| order_id | customer_name | product | quantity | price | order_date | region |
-|-----------|----------------|----------|-----------|--------|-------------|---------|
-| 1001 | John Doe | Laptop | 1 | 55000 | 2024-12-01 | North |
-| 1002 | Jane Smith | Mouse | 3 | 800 | 2024-12-02 | East |
+| **Dataset Source** | Kaggle (Sales Data) |
 
 ---
 
@@ -96,35 +77,14 @@ This project analyzes retail sales data to uncover business insights such as hig
 | Total Products Analyzed | 500+ |
 | Total Orders | 10,000+ |
 | Profit Gap (High vs Low) | ~30% |
-| Regions Covered | 4 (North, South, East, West) |
-
----
-
-## 🧩 Project Highlights (For Resume)
-- Automated dataset download using **Kaggle API**, performed **EDA** in Pandas, and visualized insights in **Power BI**.  
-- Analyzed **10K+ sales records** and identified a **30% profit gap** across regions.  
-- Recommended actionable business strategies to optimize product and regional performance.
-
----
-
-## 📁 Repository Structure  
-```
-Sales-Data-Analysis/
-│
-├── sales_data.csv
-├── data_cleaning.ipynb
-├── eda_analysis.ipynb
-├── powerbi_dashboard.pbix
-├── README.md
-└── requirements.txt
-```
+| Regions Covered | 4 (Central, South, East, West) |
 
 ---
 
 ## 🚀 How to Run the Project  
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/Sales-Data-Analysis.git
+   git clone https://github.com/yourusername/Retail-Sales-Data-Analysis.git
    cd Sales-Data-Analysis
    ```
 2. Install dependencies  
@@ -140,6 +100,6 @@ Sales-Data-Analysis/
 ---
 
 ## 📬 Contact  
-**Author:** Aditya G.  
-**LinkedIn:** [Your LinkedIn Profile]  
-**GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+**Author:** Aditya.  
+**LinkedIn:** [https://www.linkedin.com/in/aadityaa18/](https://www.linkedin.com/in/aadityaa18/)
+**GitHub:** [https://github.com/aadityaa-g18](https://github.com/aadityaa-g18)
